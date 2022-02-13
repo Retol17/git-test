@@ -1,2 +1,6 @@
 1.txt
+<<<<<<< HEAD
 .idea
+=======
+.idea
+>>>>>>> readme
